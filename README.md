@@ -20,9 +20,9 @@ Mentor:
 ## Tu puedes:
 - Obtener informacion mediante Ublock para clasificar el perfil de inversionista del usuario, clasificacion basado en  [encuesta de perfil de inversionista de Sura](https://github.com/juanretamales/HacKnow/raw/master/otros%20documentos/Perfil-Inversionista.pdf)
 ### Presentaciones
-[Presentación inicial](https://github.com/juanretamales/HacKnow/raw/master/Presentaciones/Presentacion%20inicial.pdf)
-[Presentación final](https://github.com/juanretamales/HacKnow/raw/master/Presentaciones/Presentacion%20final.pdf)
-[Video Presentación](https://github.com/juanretamales/HacKnow/raw/master/Multimedia%20del%20evento/presentacion.mp4)
+1. [Presentación inicial](https://github.com/juanretamales/HacKnow/raw/master/Presentaciones/Presentacion%20inicial.pdf)
+2. [Presentación final](https://github.com/juanretamales/HacKnow/raw/master/Presentaciones/Presentacion%20final.pdf)
+3. [Video Presentación](https://github.com/juanretamales/HacKnow/raw/master/Multimedia%20del%20evento/presentacion.mp4)
 
 
 ## Tecnologia
