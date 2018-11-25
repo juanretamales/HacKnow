@@ -18,7 +18,7 @@ Mentor:
 ## Tu puedes:
 - Obtener informacion mediante Ublock para clasificar el perfil de inversionista del usuario
 
-### Tecnologia
+## Tecnologia
 
 Dillinger uses a number of open source projects to work properly:
 
@@ -27,7 +27,7 @@ Dillinger uses a number of open source projects to work properly:
 
 Y porsupuesto, todo el codigo es codigo abierto en GitHub.
 
-### Instalación
+## Instalación
 
 HacKnow requiere [Node.js](https://nodejs.org/) v10+ para iniciar.
 
@@ -39,7 +39,13 @@ $ npm install
 $ node start
 ```
 
-### Development
-Obteniendo el primer/segundo lugar en la categoria Ublock
-Y por sobre todo....
-Fue desarrollado en 24 HORAS!!!! 
+## Development
+Grupo HacKnow en #BSLMEETS, primer lugar categoría Uport, primer lugar categoría Bolsa de Santiago, y Top 3 de toda la Hackaton.
+24 HORAS DE ESFUERZO COLECTIVO!!!! 
+### Primer lugar categoria Bolsa de Santiago - Anunciando ganadores
+![Anunciando ganadores categoria Bolsa de santiago](https://raw.githubusercontent.com/juanretamales/HacKnow/master/Multimedia%20del%20evento/DszR7m1XQAAGrk4.jpg%20large.jpg)
+### Primer lugar categoria Uport - Anunciando ganadores
+![Anunciando ganadores categoria Uport](https://raw.githubusercontent.com/juanretamales/HacKnow/master/Multimedia%20del%20evento/46687669_1014581332066672_5484644061279158272_n.jpg)
+
+
+
