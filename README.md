@@ -49,7 +49,7 @@ $ node start
 ## Development
 Grupo HacKnow en #BSLMEETS, primer lugar categoría Uport, primer lugar categoría Bolsa de Santiago, y Top 3 de toda la Hackaton.
 24 HORAS DE ESFUERZO COLECTIVO!!!! 
-### Primer lugar categoria Bolsa de Santiago - Anunciando ganadores
+### Primer lugar categoria Bolsa de Santiago - Oscar Quisbert dando una palabras al publico
 ![Anunciando ganadores categoria Bolsa de santiago](https://raw.githubusercontent.com/juanretamales/HacKnow/master/Multimedia%20del%20evento/DszR7m1XQAAGrk4.jpg%20large.jpg)
 ### Primer lugar categoria Uport - Anunciando ganadores
 ![Anunciando ganadores categoria Uport](https://raw.githubusercontent.com/juanretamales/HacKnow/master/Multimedia%20del%20evento/46687669_1014581332066672_5484644061279158272_n.jpg)
