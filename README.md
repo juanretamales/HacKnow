@@ -7,6 +7,7 @@ Proponer una solución para maantener siempre actualizado el perfil de riesgo de
 
 ## Hackaton 23 y 24 de Novembre 2018
 Evento de hackaton dedicado a blockchain en la bolsa de santiago.
+![Grupo HacKnow](https://raw.githubusercontent.com/juanretamales/HacKnow/master/Multimedia%20del%20evento/grupo%20HacKnow.jpg)
 Integrantes:
 - Juan Retamales https://github.com/juanretamales
 - Sebastian Ganga https://github.com/seganga
