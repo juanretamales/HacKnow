@@ -8,15 +8,22 @@ Proponer una solución para maantener siempre actualizado el perfil de riesgo de
 ## Hackaton 23 y 24 de Novembre 2018
 Evento de hackaton dedicado a blockchain en la bolsa de santiago.
 ![Grupo HacKnow](https://raw.githubusercontent.com/juanretamales/HacKnow/master/Multimedia%20del%20evento/grupo%20HacKnow.jpg)
-Integrantes:
+
+### Integrantes grupo HacKnow
 - Juan Retamales https://github.com/juanretamales
 - Sebastian Ganga https://github.com/seganga
 - Oscar Quisbert
+
 Mentor:
 - Andres Junge
 
 ## Tu puedes:
-- Obtener informacion mediante Ublock para clasificar el perfil de inversionista del usuario
+- Obtener informacion mediante Ublock para clasificar el perfil de inversionista del usuario, clasificacion basado en  [encuesta de perfil de inversionista de Sura](https://github.com/juanretamales/HacKnow/raw/master/otros%20documentos/Perfil-Inversionista.pdf)
+### Presentaciones
+[Presentación inicial](https://github.com/juanretamales/HacKnow/raw/master/Presentaciones/Presentacion%20inicial.pdf)
+[Presentación final](https://github.com/juanretamales/HacKnow/raw/master/Presentaciones/Presentacion%20final.pdf)
+[Video Presentación](https://github.com/juanretamales/HacKnow/raw/master/Multimedia%20del%20evento/presentacion.mp4)
+
 
 ## Tecnologia
 
